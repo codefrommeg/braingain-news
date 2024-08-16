@@ -1,92 +1,47 @@
 [
     {
-        "id": 0,
-        "title": "Adding support for THIS THING HERE",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 27",
+        "id": 10,
+        "title": "BrainGain® Passes Major Milestone in UCSD Clinical Trials",
+        "content": "We are thrilled to announce that BrainGain® has successfully completed Phase II clinical trials at UCSD. The results demonstrate significant improvements in memory and cognitive function among participants, bringing us one step closer to bringing this transformative technology to market.",
+        "author": "Dr. Fiza Singh",
+        "authorImage": "https://example.com/author-emily.jpg",
+        "date": "Aug 30",
         "category": "News"
     },
     {
-        "id": 1,
-        "title": "Introducing Waitlist's OpenAPI Spec",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Mary Cienfuegos",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-02.jpg",
-        "date": "Aug 24",
-        "category": "News"
+        "id": 11,
+        "title": "New Features Added to BrainGain® App",
+        "content": "We're excited to roll out new features in the BrainGain® app, including advanced neurofeedback analytics and personalized training plans. These updates are designed to enhance user experience and provide even more effective cognitive training.",
+        "author": "Megan Smith",
+        "authorImage": "https://example.com/author-alex.jpg",
+        "date": "Dr. I-Wei Shu",
+        "category": "Improvements"
     },
     {
-        "id": 2,
-        "title": "Supabase Integration",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Joe Samuel",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-03.jpg",
-        "date": "Aug 24",
-        "category": "News"
+        "id": 12,
+        "title": "Join Our Beta Testing Program",
+        "content": "We're inviting a select group of users to join our exclusive beta testing program for BrainGain®. As a beta tester, you'll have the opportunity to experience new features before anyone else and provide valuable feedback to help us refine the product.",
+        "author": "Owen Yang",
+        "authorImage": "https://example.com/author-samantha.jpg",
+        "date": "Aug 25",
+        "category": "General"
     },
     {
-        "id": 3,
-        "title": "Release Version 0.4",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
+        "id": 13,
+        "title": "Partnership with Major Healthcare Provider Announced",
+        "content": "BioSignal Solutions is proud to announce a strategic partnership with a leading healthcare provider. This collaboration will expand access to BrainGain® and support our mission to improve cognitive health for older adults.",
+        "author": "John Doe",
+        "authorImage": "https://example.com/author-john.jpg",
         "date": "Aug 22",
         "category": "News"
     },
     {
-        "id": 4,
-        "title": "Duplicate prioritization roadmaps",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Joe Samuel",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-03.jpg",
+        "id": 14,
+        "title": "Upcoming Webinar: The Science Behind BrainGain®",
+        "content": "Join us for an in-depth webinar where our team of neuroscientists will explore the science behind BrainGain® and the latest advancements in neurofeedback technology. Learn how BrainGain® can help you unlock your brain's full potential.",
+        "author": "Dr.",
+        "authorImage": "https://example.com/author-sarah.jpg",
         "date": "Aug 20",
-        "category": "News"
-    },
-    {
-        "id": 5,
-        "title": "The Changelog widget",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "News"
-    },
-    {
-        "id": 6,
-        "title": "Sample post in the Admin category",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "Admin"
-    },
-    {
-        "id": 7,
-        "title": "Sample post in the General category",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "General"
-    },
-    {
-        "id": 8,
-        "title": "Sample post in the Improvements category",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "Improvements"
-    },
-    {
-        "id": 9,
-        "title": "Sample post in the Legal category",
-        "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-        "author": "Rodrigo Sharma",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "Legal"
+        "category": "Events"
     }
 ]
