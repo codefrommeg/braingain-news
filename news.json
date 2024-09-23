@@ -1,4 +1,14 @@
 [
+    
+    {
+        "id": 1,
+        "title": "Modulation of frontal gamma oscillations improves working memory in T schizophrenia",
+        "content": "Schizophrenia is a debilitating mental disorder that is associated with cognitive deficits. Impairments in cognition occur early in the course of illness and are associated with poor functional outcome, but have been difficult to treat with conventional treatments. Recent studies have implicated abnormal neural network dynamics and impaired connectivity in frontal brain regions as possible causes of cognitive deficits. For example, high-frequency, dorsal-lateral prefrontal oscillatory activity in the gamma range (30–50 Hz) is associated with impaired working memory in individuals with schizophrenia. In light of these findings, it may be possible to use EEG neurofeedback (EEG-NFB) to train individuals with schizophrenia to enhance frontal gamma activity to improve working memory and cognition. In a single-group, proof-of-concept study, 31 individuals with schizophrenia received 12 weeks of twice weekly EEG-NFB to enhance frontal gamma band response. EEG-NFB was well-tolerated, associated with increased gamma training threshold, and significant increases in frontal gamma power during an n-back working memory task. Additionally, EEG-NFB was associated with significant improvements in n-back performance and working memory, speed of processing, and reasoning and problem solving on neuropsychological tests. Change in gamma power was associated with change in cognition. Significant improvements in psychiatric symptoms were also found. These encouraging findings suggest EEG- NFB targeting frontal gamma activity may provide a novel effective approach to cognitive remediation in schizophrenia, although placebo-controlled trials are needed to assess the effects of non-treatment related factors.",
+        "author": "Fiza Singh, I-Wei Shu, Sheng-Hsiou Hsu, Peter Link, Jaime A. Pineda, Eric Granholm",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
+        "date": "Jul. 10, 2020",
+        "category": "News"
+    },
     {
         "id": 10,
         "title": "BrainGain® Passes Major Milestone in UCSD Clinical Trials",
