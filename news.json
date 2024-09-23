@@ -1,57 +1,62 @@
 [
-    
     {
         "id": 1,
-        "title": "Modulation of frontal gamma oscillations improves working memory in T schizophrenia",
-        "content": "Schizophrenia is a debilitating mental disorder that is associated with cognitive deficits. Impairments in cognition occur early in the course of illness and are associated with poor functional outcome, but have been difficult to treat with conventional treatments. Recent studies have implicated abnormal neural network dynamics and impaired connectivity in frontal brain regions as possible causes of cognitive deficits. For example, high-frequency, dorsal-lateral prefrontal oscillatory activity in the gamma range (30–50 Hz) is associated with impaired working memory in individuals with schizophrenia. In light of these findings, it may be possible to use EEG neurofeedback (EEG-NFB) to train individuals with schizophrenia to enhance frontal gamma activity to improve working memory and cognition. In a single-group, proof-of-concept study, 31 individuals with schizophrenia received 12 weeks of twice weekly EEG-NFB to enhance frontal gamma band response. EEG-NFB was well-tolerated, associated with increased gamma training threshold, and significant increases in frontal gamma power during an n-back working memory task. Additionally, EEG-NFB was associated with significant improvements in n-back performance and working memory, speed of processing, and reasoning and problem solving on neuropsychological tests. Change in gamma power was associated with change in cognition. Significant improvements in psychiatric symptoms were also found. These encouraging findings suggest EEG- NFB targeting frontal gamma activity may provide a novel effective approach to cognitive remediation in schizophrenia, although placebo-controlled trials are needed to assess the effects of non-treatment related factors.",
+        "title": "Modulation of frontal gamma oscillations improves working memory in schizophrenia",
+        "content": "Schizophrenia is a debilitating mental disorder that is associated with cognitive deficits. Impairments in cognition occur early in the course of illness and are associated with poor functional outcome, but have been difficult to treat with conventional treatments. Recent studies have implicated abnormal neural network dynamics and impaired connectivity in frontal brain regions as possible causes of cognitive deficits. For example, high-frequency, dorsal-lateral prefrontal oscillatory activity in the gamma range (30–50 Hz) is associated with impaired working memory in individuals with schizophrenia. In light of these findings, it may be possible to use EEG neurofeedback (EEG-NFB) to train individuals with schizophrenia to enhance frontal gamma activity to improve working memory and cognition. In a single-group, proof-of-concept study, 31 individuals with schizophrenia received 12 weeks of twice weekly EEG-NFB to enhance frontal gamma band response. EEG-NFB was well-tolerated, associated with increased gamma training threshold, and significant increases in frontal gamma power during an n-back working memory task. Additionally, EEG-NFB was associated with significant improvements in n-back performance and working memory, speed of processing, and reasoning and problem solving on neuropsychological tests. Change in gamma power was associated with change in cognition. Significant improvements in psychiatric symptoms were also found. These encouraging findings suggest EEG-NFB targeting frontal gamma activity may provide a novel effective approach to cognitive remediation in schizophrenia, although placebo-controlled trials are needed to assess the effects of non-treatment related factors.",
+        "link": "https://doi.org/10.1016/j.nicl.2020.102339",
         "author": "Fiza Singh, I-Wei Shu, Sheng-Hsiou Hsu, Peter Link, Jaime A. Pineda, Eric Granholm",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Jul. 10, 2020",
         "category": "Papers"
     },
     {
-        "id": 10,
-        "title": "BrainGain® Passes Major Milestone in UCSD Clinical Trials",
-        "content": "We are thrilled to announce that BrainGain® has successfully completed Phase II clinical trials at UCSD. The results demonstrate significant improvements in memory and cognitive function among participants, bringing us one step closer to bringing this transformative technology to market.",
-        "author": "Dr. Fiza Singh",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug. 30, 2025",
-        "category": "News"
-    },
-    {
-        "id": 11,
-        "title": "New Features Added to BrainGain® App",
-        "content": "We're excited to roll out new features in the BrainGain® app, including advanced neurofeedback analytics and personalized training plans. These updates are designed to enhance user experience and provide even more effective cognitive training.",
-        "author": "Dr. I-Wei Shu",
+        "id": 2,
+        "title": "Revisiting the Potential of EEG Neurofeedback for Patients With Schizophrenia",
+        "content": "Schizophrenia is a neurodevelopmental disorder that can present as early as late adolescence with symptoms such as hallucinations, delusions, social withdrawal, anhedonia, and deficits in attention and memory. Treatment generally consists of pharmacotherapy with dopamine antagonists, which are highly effective in reducing positive symptoms, especially during acute episodes of psychosis. However, negative symptoms and cognitive deficits tend to persist and are associated with profound functional decline. Given these realities, novel approaches are required to develop new treatments for patients with schizophrenia, especially those targeting unmet therapeutic needs. EEG neurofeedback (NFB) is a promising approach for modulating neural signals to address cognitive and psychiatric symptoms in these patients.",
+        "link": "https://academic.oup.com/schizophreniabulletin/advance-article-abstract/doi/10.1093/schbul/sbaa033/5781182",
+        "author": "Fiza Singh, I-Wei Shu, Eric Granholm, Jaime A. Pineda",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-02.jpg",
-        "date": "Aug. 27, 2024",
-        "category": "Improvements"
+        "date": "2020",
+        "category": "Papers"
     },
     {
-        "id": 12,
-        "title": "Join Our Beta Testing Program",
-        "content": "We're inviting a select group of users to join our exclusive beta testing program for BrainGain®. As a beta tester, you'll have the opportunity to experience new features before anyone else and provide valuable feedback to help us refine the product.",
-        "author": "Owen Yang",
+        "id": 3,
+        "title": "Novel EEG-Based Neurofeedback System Targeting Frontal Gamma Activity of Schizophrenia Patients to Improve Working Memory",
+        "content": "This paper discusses the development and implementation of an EEG-based neurofeedback system aimed at improving working memory in schizophrenia patients. The system specifically targets frontal gamma activity and has shown promising results in improving cognitive functions. The EEG-NFB training was associated with increased gamma coherence and improved outcomes in working memory tasks.",
+        "link": "https://doi.org/10.1109/EMBC44109.2021.9630325",
+        "author": "Yayu Lin, I-Wei Shu, Shen-Hsiou Hsu, Jaime A. Pineda, Eric L. Granholm, Fiza Singh",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-03.jpg",
-        "date": "Aug 25",
-        "category": "General"
+        "date": "2021",
+        "category": "Papers"
     },
     {
-        "id": 13,
-        "title": "Partnership with Major Healthcare Provider Announced",
-        "content": "BioSignal Solutions is proud to announce a strategic partnership with a leading healthcare provider. This collaboration will expand access to BrainGain® and support our mission to improve cognitive health for older adults.",
-        "author": "Dr. I-Wei Shu",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-02.jpg",
-        "date": "Aug. 22, 2025",
-        "category": "News"
+        "id": 4,
+        "title": "Focused Review of Gamma Neuromodulation in Cognitive Remediation for Schizophrenia",
+        "content": "This focused review examines gamma neuromodulation as a therapeutic strategy in cognitive remediation for schizophrenia. The review highlights the potential of EEG neurofeedback to modulate frontal gamma oscillations and its association with improvements in cognitive tasks related to working memory and executive function.",
+        "link": "https://doi.org/10.1016/j.nicl.2024.103562",
+        "author": "I-Wei Shu, Yayu Lin, Eric Granholm, Fiza Singh",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-04.jpg",
+        "date": "2024",
+        "category": "Papers"
     },
     {
-        "id": 14,
-        "title": "Upcoming Webinar: The Science Behind BrainGain®",
-        "content": "Join us for an in-depth webinar where our team of neuroscientists will explore the science behind BrainGain® and the latest advancements in neurofeedback technology. Learn how BrainGain® can help you unlock your brain's full potential.",
-        "author": "Dr.",
-        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
-        "date": "Aug 20",
-        "category": "Events"
+        "id": 5,
+        "title": "Current Topics in Behavioral Neuroscience: Gamma Neuromodulation in Schizophrenia",
+        "content": "This paper provides an in-depth exploration of current topics in behavioral neuroscience, with a focus on gamma neuromodulation for schizophrenia. The study reviews the role of gamma oscillations in cognitive functions and the potential for neurofeedback-based interventions to improve cognitive outcomes in patients with schizophrenia.",
+        "link": "https://link.springer.com/article/10.1007/s40474-022-00052-x",
+        "author": "I-Wei Shu, Jaime A. Pineda, Yayu Lin, Eric Granholm, Fiza Singh",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-05.jpg",
+        "date": "2022",
+        "category": "Papers"
+    },
+    {
+        "id": 6,
+        "title": "EEG Neurofeedback for Schizophrenia: A Comprehensive Review",
+        "content": "This paper reviews the literature on EEG neurofeedback applications for schizophrenia, examining the potential of this technology to modulate neural circuits involved in working memory and cognitive performance. The study highlights the need for randomized controlled trials to further establish its efficacy.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7896542/",
+        "author": "Fiza Singh, I-Wei Shu, Jaime A. Pineda, Eric Granholm",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-06.jpg",
+        "date": "2020",
+        "category": "Papers"
     }
 ]
